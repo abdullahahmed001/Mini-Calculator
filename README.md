@@ -13,6 +13,21 @@
 
 # Functions for Various Operations
 # Add Function
-- Description: This function takes two numbers entered by the user and displays the product.
+- Description: This function takes two numbers entered by the user and displays the sum.
 - Input: Two floating point numbers. 
-- Output: Displays the product of the two numbers. 
+- Output: Displays the sum of the two numbers.
+
+# Subtract Function
+- Description: This function takes two numbers entered by the user and displays the difference.
+- Input: Two floating point numbers
+- Output: Displays the difference between the two numbers.
+
+# Multiply Function
+- Description: This function takes two numbers entered by the user and displays the product.
+- Input: Two floating point values
+- Output: Displays the product between the two numbers.
+
+# Divide Function
+- Description: This function takes two numbers entered by the user and displays the quotient.
+- Input: Two floating point values
+- Output: Displays the quotient between the two numbers. 
