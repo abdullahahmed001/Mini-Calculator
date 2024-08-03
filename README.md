@@ -13,9 +13,6 @@
 
 # Functions for Various Operations
 # Add Function
-- Description:
-- This function takes two numbers entered by the user and displays the product.
-- Input:
-- Two floating point numbers
-- Output:
-- Displays the product of the two numbers. 
+- Description: This function takes two numbers entered by the user and displays the product.
+- Input: Two floating point numbers. 
+- Output: Displays the product of the two numbers. 
