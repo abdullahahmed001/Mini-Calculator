@@ -9,4 +9,13 @@
 - Ask the user to enter two numbers and an operation.
 - If the operation is invalid, the user is forced to enter a valid operation.
 - Based on the operation entered by the user, the program performs the arithmetic.
-- The output is then displayed. 
+- The output is then displayed.
+
+# Functions for Various Operations
+# Add Function
+- Description:
+- This function takes two numbers entered by the user and displays the product.
+- Input:
+- Two floating point numbers
+- Output:
+- Displays the product of the two numbers. 
